@@ -1,5 +1,4 @@
 part 'cr.dart';
-
 part 'dr.dart';
 
 /// Alias for a map representing data in the database.
