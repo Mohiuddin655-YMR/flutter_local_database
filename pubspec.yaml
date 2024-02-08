@@ -1,4 +1,4 @@
-name: local_database
+name: flutter_local_database
 description: "The local database implemented in the provided Dart code is a simplified key-value store designed for local data storage. It consists of three main classes: LocalDatabase, LCR (Local Collection Reference), and LDR (Local Document Reference)"
 version: 1.0.0
 repository: https://github.com/Mohiuddin655-YMR/flutter_local_database.git

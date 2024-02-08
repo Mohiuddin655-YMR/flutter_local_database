@@ -1,3 +1,3 @@
-library flutter_local_database;
+library database;
 
 export 'src/db.dart';
